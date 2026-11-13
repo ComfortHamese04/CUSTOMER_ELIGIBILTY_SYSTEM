@@ -4,6 +4,8 @@
 The Customer Eligibility System explores customer data to support eligibility assessments for LangaSat’s satellite internet services.
 
 The project combines data exploration, cleaning, feature engineering, customer segmentation, predictive modelling, and an interactive R Shiny application. It examines financial and demographic information to move beyond an assessment based only on annual salary.
+<img width="1920" height="950" alt="image" src="https://github.com/user-attachments/assets/353189d1-19e2-495e-a2ac-287fa184beb4" />
+
 
 ## Project Overview
 
